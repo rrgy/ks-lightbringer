@@ -1,0 +1,19 @@
+.news_content{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    /* width: ;   */
+}
+.news{
+    display: flex;
+    height: 100vh;
+    width: 500px;
+}
+.news_item{
+    height: 50px;
+    width: 200px;
+    background-color: #49af9a;
+    /* background: linear-gradient(to bottom, #49AF9A 0%, #417568 90%); */
+    color: white;
+}
