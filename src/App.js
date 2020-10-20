@@ -13,7 +13,13 @@ function App() {
             Player
           </div>
           <div className='routes'>
-            {routes}
+            <div className='welcome'>
+              <img clasName='welcome-image' src={require('./Nzoth.png')} alt='guild member on uncorrupted voidwing mount' />
+              welcome to Kinda Serious
+            </div>
+            <div>
+              {routes}
+            </div>
           </div>
           <div className='social_media'>
             Discord and Raider.io

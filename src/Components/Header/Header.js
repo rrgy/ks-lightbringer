@@ -8,7 +8,7 @@ const Header = () => {
         <header>
             <div className='header-container'>
                 <div>
-                    <img className='logo' src='ks_logo.png' alt='Kinda Serious guild logo'/>
+                    <img className='logo' src='KS_Art-01_compressed.png' alt='Kinda Serious guild logo'/>
                 </div>
                 <div>
                     <Link to='/'><button className='header-button'>LATEST NEWS</button></Link>
